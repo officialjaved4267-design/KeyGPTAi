@@ -1,0 +1,6 @@
+{
+  "name": "KeyAi",
+  "description": "One AI. Unlimited Creativity. All-in-one AI studio for chat, photo editing, upload-to-edit AI video editing, subtitles, and text tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

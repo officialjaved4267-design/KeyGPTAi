@@ -1,0 +1,27 @@
+{
+  "users": {},
+  "admins": {
+    "admin_keybloxx001": {
+      "id": "admin_keybloxx001",
+      "username": "KeyBloxx001",
+      "email": "admin@keyai.studio",
+      "passwordHash": "e733469b0c2c006f22cf55cf16edbf63c7955587e4f17af335e29e792f881b921a422a6697b2ba89a856146b93907fca7d7da05ad264991c4b5c7020bf53527f",
+      "passwordSalt": "a8009c3ffa51937bcdb314959721cb9c",
+      "role": "super_admin",
+      "permissions": [
+        "manage_users",
+        "manage_credits",
+        "manage_admins",
+        "view_analytics",
+        "unlimited_ai"
+      ],
+      "unlimitedCredits": true,
+      "status": "active",
+      "createdAt": 1794883158779,
+      "createdBy": "system",
+      "lastLoginAt": 1794998910438
+    }
+  },
+  "transactions": [],
+  "activityLogs": []
+}
